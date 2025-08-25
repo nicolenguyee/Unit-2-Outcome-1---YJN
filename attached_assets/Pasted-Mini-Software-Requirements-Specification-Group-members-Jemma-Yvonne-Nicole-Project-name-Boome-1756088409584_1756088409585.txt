@@ -1,0 +1,117 @@
+Mini Software Requirements Specification
+
+Group members: Jemma, Yvonne, Nicole 
+
+Project name: Boomerang 
+
+Project summary: Boomerang is a healthcare application aimed at assisting elderly individuals with managing their medicine schedules and monitoring their general health. The app will also provide curated medical knowledge from a unique, verified dataset sourced from healthcare professionals. This ensures that users receive trustworthy, relevant, and easy-to-understand health advice when prompted.
+
+
+What are the functional requirements of your proposed solution? (What does the system need to be able to do)?
+The system must be able to:
+Respond to user health-related queries using the app’s AI.
+
+
+Provide personalised/unique health goals and reminders.
+
+
+Send medicine reminder notifications.
+
+
+Track medicine usage and history.
+
+
+Record and display general health metrics (e.g., heart rate, blood pressure).
+
+
+Suggest lifestyle tips or next steps based on tracked data.
+
+
+Provide access to a curated database of health information sourced from professionals.
+
+What are the non-functional requirements of your proposed solution? (What does the system need to be like)?
+
+Reliable – Provide accurate and consistent information.
+
+
+User-Friendly – Simple navigation, large text options, and zoom features for short-sighted users.
+
+
+Engaging – Include rewarding elements (badges, progress tracking) to encourage goal completion.
+
+
+Secure – Protect personal medical information with encryption and secure login.
+
+
+Accessible – Run smoothly on devices with varying processing power.
+
+What platform or platforms will your solution need to run on? 
+Smartphones (Android, iOS)
+
+
+Smartwatches (Apple Watch, Wear OS)
+
+
+Desktop/Web App (Windows, macOS, Web Browser)
+
+What are the key functions in the scope of the system? (What are the main tasks it will perform
+Monitor and record health metrics (e.g., heart rate, blood pressure).
+
+
+Provide medicine schedules and reminders.
+
+
+Suggest lifestyle tips based on tracked data.
+
+
+Give health check-up prompts.
+
+
+Use patient data to personalise suggestions.
+
+
+Provide access to a verified professional database of health knowledge.
+
+What functions are out of scope of your proposed solution? (What additional features do you not intend to include?)
+Providing medical diagnoses based on symptoms.
+
+
+Real-time emergency monitoring or alert services (e.g., fall detection).
+
+
+Integration with external medical systems (hospitals, GP clinics) in early versions
+
+
+Target Audience 
+Primary: Elderly individuals (ages 60+)
+
+
+Secondary: Caregivers or family members managing an elderly person’s health
+
+Resources required
+Development team (mobile, web, smartwatch app developers)
+
+
+UI/UX designer specialising in accessibility
+
+
+Healthcare professionals for data curation
+
+
+Secure database and hosting services
+
+
+Testing devices (phones, watches, desktops)
+
+
+Task: Define the App’s goals
+
+Competitors - research: 
+
+Epocrates: 
+Medical reference app that supports clients to make informed decisions, save time and deliver patient focused care.
+Medscape: 
+Website that provides access to medical information about clinics and medical education 
+Provides education for physicians and other health professionals. 
+UpToDate:
+Can be used for medical knowledge

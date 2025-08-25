@@ -1,0 +1,104 @@
+Checklist 
+ What we should do with our Boomerang project
+1. Project Planning & Accountability (from Kelly Winter’s approach)
+Create a Gantt chart to map out milestones such as:
+
+
+Defining app goals
+
+
+Designing wireframes/UI mockups
+
+
+Setting up database structure
+
+
+Developing key functions (reminders, health metric tracking)
+
+
+Testing and feedback
+
+
+Final evaluation
+
+
+Hold regular check-ins with your group (Jemma, Yvonne, Nicole) where each person reports progress.
+
+
+Assign roles clearly (e.g., developer, researcher, designer).
+
+
+Celebrate small achievements (completing reminders function, UI mockup, etc.) to keep motivation high.
+
+
+
+2. 
+Showcasing & Innovation 
+
+Emphasize accessibility features (large text, easy navigation).
+
+
+Promote curated health data as your unique, trustworthy point of difference.
+
+
+Consider a wearable integration (Apple Watch/Wear OS) as your “wow” factor.
+
+
+
+3. 
+Documentation & Reflection
+Keep a shared group google doc (include):
+
+
+What you worked on each week.
+
+
+Problems faced and how you solved them.
+
+
+Screenshots of your design/prototype.
+
+
+This will help when writing your evaluation.
+
+
+
+4. 
+Development a model
+Decide on a methodology:
+
+
+Agile → Best fit for your project. You can test and adapt features (like medicine reminders) as you go.
+
+
+Waterfall → Would be too rigid, but you could apply it for the early research/design phase.
+
+
+Use Design Thinking: Empathize with elderly users - Define their challenges (e.g. remembering pills, navigating apps) - Ideate solutions - Prototype - Test.
+
+
+
+5. 
+Final Presentation & Collaboration
+Be ready to pitch your project
+
+
+Focus on the problem (elderly struggle with health management).
+
+
+Show your solution (Boomerang app).
+
+
+Emphasize benefits (trustworthy, accessible, supportive).
+
+
+Competitors - research: 
+
+Epocrates: 
+Medical reference app that supports clients to make informed decisions, save time and deliver patient focused care.
+Medscape: 
+Website that provides access to medical information about clinics and medical education 
+Provides education for physicians and other health professionals. 
+UpToDate:
+
+

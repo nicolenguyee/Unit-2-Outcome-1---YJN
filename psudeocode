@@ -1,0 +1,25 @@
+BEGIN
+    DISPLAY "Welcome to Boomerang"
+    LOGIN or REGISTER user
+
+    WHILE user is logged in DO
+        DISPLAY menu options
+        GET user choice
+
+        IF choice = "Ask question" THEN
+            DISPLAY AI health response
+        ELSE IF choice = "Set reminder" THEN
+            SAVE medicine reminder
+        ELSE IF choice = "Record health data" THEN
+            STORE health metrics
+        ELSE IF choice = "View tips" THEN
+            SHOW lifestyle suggestions
+        ELSE IF choice = "Access info" THEN
+            DISPLAY verified health articles
+        ELSE IF choice = "Logout" THEN
+            EXIT loop
+        END IF
+    END WHILE
+
+    DISPLAY "Goodbye!"
+END
